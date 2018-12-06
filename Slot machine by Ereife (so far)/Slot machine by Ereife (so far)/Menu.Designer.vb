@@ -39,7 +39,7 @@ Partial Class Menu
         '
         'Timer1
         '
-        Me.Timer1.Interval = 5000
+        Me.Timer1.Interval = 1000
         '
         'Menu
         '

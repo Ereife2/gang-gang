@@ -29,7 +29,6 @@ Partial Class Main_page
         Me.lever = New System.Windows.Forms.PictureBox
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Button1 = New System.Windows.Forms.Button
-        Me.Button2 = New System.Windows.Forms.Button
         CType(Me.slotOne, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.slotTwo, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.slotThree, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -88,21 +87,11 @@ Partial Class Main_page
         Me.Button1.Text = "spin"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Button2
-        '
-        Me.Button2.Location = New System.Drawing.Point(416, 356)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
-        Me.Button2.TabIndex = 5
-        Me.Button2.Text = "Button2"
-        Me.Button2.UseVisualStyleBackColor = True
-        '
         'Main_page
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(692, 589)
-        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.lever)
         Me.Controls.Add(Me.slotThree)
@@ -123,5 +112,4 @@ Partial Class Main_page
     Friend WithEvents lever As System.Windows.Forms.PictureBox
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents Button2 As System.Windows.Forms.Button
 End Class
