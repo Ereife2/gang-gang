@@ -9,3 +9,6 @@ N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slo
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).exe
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).xml
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).pdb
+N:\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).exe
+N:\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).xml
+N:\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).pdb

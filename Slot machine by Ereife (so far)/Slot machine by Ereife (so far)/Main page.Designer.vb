@@ -29,6 +29,7 @@ Partial Class Main_page
         Me.lever = New System.Windows.Forms.PictureBox
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Button1 = New System.Windows.Forms.Button
+        Me.moneybox = New System.Windows.Forms.Label
         CType(Me.slotOne, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.slotTwo, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.slotThree, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -87,11 +88,21 @@ Partial Class Main_page
         Me.Button1.Text = "spin"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'moneybox
+        '
+        Me.moneybox.AutoSize = True
+        Me.moneybox.Location = New System.Drawing.Point(124, 25)
+        Me.moneybox.Name = "moneybox"
+        Me.moneybox.Size = New System.Drawing.Size(39, 13)
+        Me.moneybox.TabIndex = 5
+        Me.moneybox.Text = "Label1"
+        '
         'Main_page
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(692, 589)
+        Me.Controls.Add(Me.moneybox)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.lever)
         Me.Controls.Add(Me.slotThree)
@@ -104,6 +115,7 @@ Partial Class Main_page
         CType(Me.slotThree, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.lever, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents slotOne As System.Windows.Forms.PictureBox
@@ -112,4 +124,5 @@ Partial Class Main_page
     Friend WithEvents lever As System.Windows.Forms.PictureBox
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents moneybox As System.Windows.Forms.Label
 End Class
