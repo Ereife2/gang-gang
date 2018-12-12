@@ -3,12 +3,15 @@ N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\bin\Debug\Slo
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\bin\Debug\Slot machine by Ereife (so far).xml
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\ResolveAssemblyReference.cache
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\slot_machines.Main_page.resources
-N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\slot_machines.Menu.resources
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\slot_machines.Resources.resources
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).vbproj.GenerateResource.Cache
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).exe
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).xml
 N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).pdb
+N:\computer science\Year 10\group task\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).exe
+N:\computer science\Year 10\group task\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).xml
+N:\computer science\Year 10\group task\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).pdb
 N:\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).exe
 N:\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).xml
 N:\gang-gang-master\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\Slot machine by Ereife (so far).pdb
+N:\Slot machine by Ereife (so far)\Slot machine by Ereife (so far)\obj\Debug\slot_machines.MainMenu.resources

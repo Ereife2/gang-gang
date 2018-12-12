@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("slot machines")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Code Well Studios")> 
+<Assembly: AssemblyCompany("Hewlett-Packard Company")> 
 <Assembly: AssemblyProduct("slot machines")> 
-<Assembly: AssemblyCopyright("Copyright © Code Well Studios")> 
+<Assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2018")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
