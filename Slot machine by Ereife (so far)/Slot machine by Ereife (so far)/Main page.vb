@@ -50,10 +50,13 @@ Public Class Main_page
                     Return +1
                 End If
         End Select
-
+        ' if two are skulls they lose a £1
+        If toCheck.Count(Function(c As Char) c = "0") = 2 Then
+            Return -1
+        End If
 
         ' if two are the same they win 50p
-        For x = 0 To 2
+        For x = 0 To 1
             Dim buffer As Integer = x
             If toCheck.Count(Function(c As Char) c = toCheck.Chars(buffer)) = 2 Then
                 Return 0.5
@@ -61,10 +64,7 @@ Public Class Main_page
         Next
 
 
-        ' if two are skulls they lose a £1
-        If toCheck.Count(Function(c As Char) c = "0") = 2 Then
-            Return -1
-        End If
+        
 
 
 
